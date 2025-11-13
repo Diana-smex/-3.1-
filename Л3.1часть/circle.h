@@ -2,6 +2,7 @@
 #define CIRCLE_H
 
 #include <QPoint>
+class QPainter;
 
 class CCircle {
 public:
